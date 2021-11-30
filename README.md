@@ -1,4 +1,4 @@
-# Project CNN 👷🏼‍♂️👷🏼‍♂️
+# Project KNN 👷🏼‍♂️👷🏼‍♂️
 # Klasifikasi Penyakit Jagung melalui Citra Daun Menggunakan Algoritma KNN🌽
 
 
