@@ -21,7 +21,7 @@ This dataset has been made using the popular ✨ PlantVillage and PlantDoc ✨ d
 
 ##
 ## 📈Best Test Score <br>
-<img src="https://github.com/ppabimanyu/Tugas---CNN/blob/master/src/img.png" width="50%">
+## 82.5%
 <br>
 
 ## 🚀Tools
