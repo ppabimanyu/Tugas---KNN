@@ -21,7 +21,7 @@ This dataset has been made using the popular ✨ PlantVillage ✨ datasets. Duri
 
 ##
 ## 📈Best Test Score <br>
-## 87.0%
+## 🏆87.0%🥇
 <br>
 
 ## 🚀Tools
