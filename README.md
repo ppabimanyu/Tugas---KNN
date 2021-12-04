@@ -17,7 +17,7 @@ Daftar Anggota :
 3: Healthy - 300 images
 
 ## 📝Note: <br>
-This dataset has been made using the popular ✨ PlantVillage ✨ datasets. During the formation of the dataset certain images have been removed which were not found to be useful.
+This dataset has been made using the popular ✨ <a href="https://www.kaggle.com/abdallahalidev/plantvillage-dataset/version/1">PlantVillage</a> ✨ datasets. During the formation of the dataset certain images have been removed which were not found to be useful.
 
 ##
 ## 📈Best Test Score <br>
