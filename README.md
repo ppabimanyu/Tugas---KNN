@@ -12,7 +12,7 @@ Daftar Anggota :
 ##
 
 ## 🤖Guide
-1. intall library :
+1. install library :
     - python
     - <a href="https://pypi.org/project/numpy/" target="_blank">Numpy</a>
     - <a href="https://pypi.org/project/opencv-python/" target="_blank">openCV</a>
