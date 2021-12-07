@@ -10,6 +10,23 @@ Daftar Anggota :
 5. <a href="https://github.com/AfrizalSA" target="_blank">Sofyan Arif Af Rizal (E41192160)</a>
 
 ##
+
+## 🤖Guide
+1. intall library :
+    - python
+    - <a href="https://pypi.org/project/numpy/" target="_blank">Numpy</a>
+    - <a href="https://pypi.org/project/opencv-python/" target="_blank">openCV</a>
+    - <a href="https://pypi.org/project/pandas/" target="_blank">pandas</a>
+    - <a href="https://pypi.org/project/tqdm/" target="_blank">tqdm</a>
+    - <a href="https://pypi.org/project/scikit-learn/" target="_blank">scikit-learn</a>
+    - <a href="https://pypi.org/project/matplotlib/" target="_blank">matplotlib</a>
+    - <a href="https://pypi.org/project/jcopml/" target="_blank">jcopml</a>
+2. run <a href="https://github.com/ppabimanyu/Tugas---KNN/tree/master/knn_python" target="_blank">predict.py</a> in knn_python folder -> "python predict.py" 
+3. enter test file path -> ex "dataset/test/Gray_Leaf_Spot/00a20f6f-e8bd-4453-9e25-36ea70feb626___RS_GLSp 4655_final_masked.jpg" 
+4. enter the value of k-neighbor (int)  
+
+##
+
 ## 🗂️Dataset Description:<br>
 0: Common Rust - 300 images <br>
 1: Gray Leaf Spot - 300 images <br>
