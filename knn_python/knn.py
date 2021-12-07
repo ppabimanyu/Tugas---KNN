@@ -21,4 +21,4 @@ def predict_knn(train, test, k):
     knn = KNeighborsClassifier(n_neighbors=k)
     knn.fit(X_train_scaled, y_train)
     preds = knn.predict(X_test_scaled)
-    return preds, y_test
+    return preds, y_test, X_test

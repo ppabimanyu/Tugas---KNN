@@ -11,8 +11,12 @@ print(path_test)
 train = pd.read_csv("train.csv")
 test = ekstrak([path_test])
 
-preds, y_test = predict_knn(train, test, k)
-print(test)
+preds, y_test, X_test = predict_knn(train, test, k)
+# print(test)
 print(' ')
+for label in X_test.columns:
+    print(f"{label} = {X_test[label][0]}")
+print(' ')
+
 print(f"target={y_test[0]} | predict={preds[0]}  -----  True  -----") if y_test[0] == preds[0] else print(
     f"target={y_test[0]} | predict={preds[0]}  -----  False  -----")
