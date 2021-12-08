@@ -21,8 +21,10 @@ Daftar Anggota :
     - <a href="https://pypi.org/project/scikit-learn/" target="_blank">scikit-learn</a>
     - <a href="https://pypi.org/project/matplotlib/" target="_blank">matplotlib</a>
     - <a href="https://pypi.org/project/jcopml/" target="_blank">jcopml</a>
-2. run <a href="https://github.com/ppabimanyu/Tugas---KNN/tree/master/knn_python" target="_blank">predict.py</a> in knn_python folder -> "python predict.py" 
-3. enter test file path -> ex "dataset/test/Common_Rust/Corn_Common_Rust (142).jpg" 
+    - <a href="https://pypi.org/project/Pillow/" target="_blank">pillow</a>
+    - tkinter -> "pip install tk"
+2. run <a href="https://github.com/ppabimanyu/Tugas---KNN/tree/master/knn_python" target="_blank">gui.py</a> in knn_python folder -> "python gui.py" 
+3. select image 
 4. enter the value of k-neighbor (int)  
 
 ##
