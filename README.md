@@ -12,8 +12,9 @@ Daftar Anggota :
 ##
 
 ## 🤖Guide
-1. install library :
-    - python
+1. create env -> "conda create -n knn python=3.9"
+2. activate env -> "conda activate knn"
+3. install library :
     - <a href="https://pypi.org/project/numpy/" target="_blank">Numpy</a>
     - <a href="https://pypi.org/project/opencv-python/" target="_blank">openCV</a>
     - <a href="https://pypi.org/project/pandas/" target="_blank">pandas</a>
@@ -23,9 +24,9 @@ Daftar Anggota :
     - <a href="https://pypi.org/project/jcopml/" target="_blank">jcopml</a>
     - <a href="https://pypi.org/project/Pillow/" target="_blank">pillow</a>
     - tkinter -> "pip install tk"
-2. run <a href="https://github.com/ppabimanyu/Tugas---KNN/tree/master/knn_python" target="_blank">gui.py</a> in knn_python folder -> "python gui.py" 
-3. select image 
-4. enter the value of k-neighbor (int)  
+4. run <a href="https://github.com/ppabimanyu/Tugas---KNN/tree/master/knn_python" target="_blank">gui.py</a> in knn_python folder -> "python gui.py" 
+5. select image 
+6. enter the value of k-neighbor (int)  
 
 ##
 
