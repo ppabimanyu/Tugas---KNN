@@ -42,6 +42,7 @@ This dataset has been made using the popular ✨ <a href="https://www.kaggle.com
 ##
 ## 📈Best Test Score <br>
 ## 🏆87.0%🥇
+<img src="https://github.com/ppabimanyu/Tugas---KNN/blob/master/src/best_score_test.png" width="50%">
 <br>
 
 ## 🚀Tools
