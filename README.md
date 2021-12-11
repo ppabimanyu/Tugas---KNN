@@ -24,7 +24,7 @@ Daftar Anggota :
     - <a href="https://pypi.org/project/jcopml/" target="_blank">jcopml</a>
     - <a href="https://pypi.org/project/Pillow/" target="_blank">pillow</a>
     - tkinter -> "pip install tk"
-4. run <a href="https://github.com/ppabimanyu/Tugas---KNN/tree/master/knn_python" target="_blank">gui.py</a> in knn_python folder -> "python gui.py" 
+4. run <a href="https://github.com/ppabimanyu/Tugas---KNN/tree/master/KNN_Python(with%20k_neighboar%20adjustment)" target="_blank">gui.py</a> in knn_python folder -> "python gui.py" 
 5. select image 
 6. enter the value of k-neighbor (int)  
 
