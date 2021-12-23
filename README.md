@@ -1,5 +1,5 @@
 # Project KNN 👷🏼‍♂️👷🏼‍♂️
-# ef="https://docs.google.com/presentation/d/1SFpUq5J7zwIf8QWHdqhZPs3aQibQitUH-7Y0SF9IWTc/edit?usp=sharing">Klasifikasi Penyakit Jagung melalui Citra Daun Menggunakan Algoritma KNN🌽</a>
+# <a href="https://docs.google.com/presentation/d/1SFpUq5J7zwIf8QWHdqhZPs3aQibQitUH-7Y0SF9IWTc/edit?usp=sharing">Klasifikasi Penyakit Jagung melalui Citra Daun Menggunakan Algoritma KNN🌽</a>
 
 Daftar Anggota :
 1. <a href="https://github.com/ppabimanyu" target="_blank">Putra Prassiesa Abimanyu (E41192178)</a>
