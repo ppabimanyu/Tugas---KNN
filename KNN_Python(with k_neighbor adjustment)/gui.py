@@ -2,9 +2,7 @@
 import tkinter as tk
 from PIL import ImageTk, Image
 from tkinter import filedialog
-import numpy as np
 import pandas as pd
-from sklearn import neighbors
 from ekstraksi_fitur import ekstrak
 from knn import predict_knn
 
