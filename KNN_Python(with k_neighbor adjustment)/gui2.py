@@ -48,7 +48,7 @@ class Utama():
             text="k_neighbor : ", padx=10, font=("", 12), bg='#DFD3C3')
         self.neighbors_label.pack(side=tk.LEFT)
 
-        self.k = tk.IntVar(value=11)
+        self.k = tk.IntVar(value=5)
         self.name_entry = tk.Entry(textvariable=self.k,
                                    font=('calibre', 10, 'normal'))
         self.name_entry.pack(side=tk.LEFT)
@@ -84,14 +84,14 @@ class Utama():
         file_name = self.tempFile.split('/')
         self.text.tag_configure('medium', font=(
             'Verdana', 16, 'bold'))
-        self.text.insert(tk.END, 'File : \n' + str(
+        self.text.insert(tk.END, '\n \n File : \n' + '   ' + str(
             file_name[len(file_name)-1]).upper() + '\n \n')
 
-        self.text.insert(tk.END, 'Feature : \n')
+        self.text.insert(tk.END, ' Feature : \n')
         for label in X_test.columns:
             self.text.insert(
-                tk.END, (str(label) + ' : ' + str(X_test[label][0]) + '\n'))
-        self.text.insert(tk.END, '\n \n')
+                tk.END, ('   ' + str(label) + ' : ' + str(X_test[label][0]) + '\n'))
+        self.text.insert(tk.END, '\n \n \n \n')
         self.text.tag_configure('big', font=(
             'Verdana', 20, 'bold'), justify='center')
         self.text.insert(tk.END, preds[0], 'big')
