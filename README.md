@@ -59,7 +59,10 @@ Daftar Anggota :
     ```
     conda env create -f env_knn.yml
     ```
-- activate env -> "conda activate knn"
+- activate env
+    ```
+    conda activate knn
+    ```
 
 ## 🗂️Dataset Description:<br>
 0: Common Rust - 300 images <br>
