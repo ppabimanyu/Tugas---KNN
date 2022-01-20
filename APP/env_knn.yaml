@@ -1,0 +1,17 @@
+name: knn
+
+dependencies:
+  - python==3.9
+  - pip
+  - tqdm
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+
+  - pip:
+      - jcopml
+      - tk
+      - Pillow
+      - cv2
+      - opencv-python
