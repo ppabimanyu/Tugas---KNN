@@ -8,7 +8,6 @@ Daftar Anggota :
 4. <a href="https://github.com/devanFerdiansyah" target="_blank">Devan Ferdiansyah (E41191971)</a>
 5. <a href="https://github.com/AfrizalSA" target="_blank">Sofyan Arif Af Rizal (E41192160)</a>
 
-##
 
 ## 🤖Starter Guide
 ## Step 1: Instalasi Miniconda
@@ -54,26 +53,13 @@ Daftar Anggota :
 ## Step 2: Instalasi Environment
 - Change directory `cd` ke folder kerja ini
     ```
-    cd supervised_learning/
+    cd APP/
     ```
-- Jalankan command ini untuk menginstall environment `jcopml`
+- Jalankan command ini untuk menginstall environment `knn`
     ```
-    conda env create -f env_jcopml.yml
+    conda env create -f env_knn.yml
     ```
-
-## Step 3: Memastikan environment terinstall dengan baik
-- Jalankan command berikut untuk mengecek instalasi dan ikuti instruksi yang dihasilkan
-    ```
-    python check_installation.py
-    ```
-- Jika sudah aman, maka akan muncul keterangan berikut, dan kita bisa mulai belajar. Semangat!
-    ```
-    ✓ jupyter telah terinstall dengan baik
-    ✓ nb_conda_kernels telah terinstall dengan baik
-    ✓ Environment jcopml terdeteksi
-    ✓ Package telah terinstall dengan baik di dalam environment jcopml
-    ✓ Instalasi berjalan dengan baik. Selamat belajar!
-    ```
+- activate env -> "conda activate knn"
 
 ## 🗂️Dataset Description:<br>
 0: Common Rust - 300 images <br>
